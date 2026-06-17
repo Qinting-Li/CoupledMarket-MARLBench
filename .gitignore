@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+results/
+results_*/
+*.pkl
+*.xlsx
+*.zip
+.pytest_cache/
